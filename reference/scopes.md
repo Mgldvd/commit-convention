@@ -15,7 +15,7 @@ enough to apply outside the project that first needed them.
 | Area | Scopes |
 |---|---|
 | UI / Frontend | `ui`, `layout`, `theme`, `a11y`, `forms`, `nav`, `icons` |
-| Backend / API | `api`, `backend`, `server`, `router`, `endpoint`, `handler` |
+| Backend / API | `api`, `backend`, `server`, `router`, `endpoint`, `handler`, `discover` |
 | Data / Storage | `db`, `schema`, `cache`, `storage`, `migrate`, `query`, `model` |
 | Auth / Security | `auth`, `security`, `perms`, `session`, `token`, `oauth` |
 | CLI / Tooling | `cli`, `cmd`, `script`, `tooling` |
